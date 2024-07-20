@@ -1,0 +1,12 @@
+				@font-face {
+					font-family: 'cabin';
+					src: url('/blog/wp-content/uploads/useanyfont/684Cabin.woff2') format('woff2'),
+						url('/blog/wp-content/uploads/useanyfont/684Cabin.woff') format('woff');
+						font-weight: 600; font-style: normal; font-display: auto;
+				}
+
+				.cabin{font-family: 'cabin' !important;}
+
+				.et_gf_cabin{background:none !important;font-family:cabin;text-indent:0 !important;font-size:25px;}
+
+		
