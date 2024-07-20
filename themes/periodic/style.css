@@ -1,0 +1,18 @@
+/**
+Theme Name: Periodic
+Text Domain: Periodic
+Author: TablaPe
+Author URI: https://www.tablape.com
+Theme URI: https://www.tablape.com
+Version: 1.0
+*/
+
+/*  */
+@font-face {
+    font-family: 'Poppins';
+    src: url('path-to-your-fonts/Poppins-Regular.woff2') format('woff2'),
+         url('path-to-your-fonts/Poppins-Regular.woff') format('woff'),
+         url('path-to-your-fonts/Poppins-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
